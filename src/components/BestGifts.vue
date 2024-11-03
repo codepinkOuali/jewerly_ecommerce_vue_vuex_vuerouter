@@ -1,5 +1,5 @@
 <template>
-  <section class="mt-32" data-aos="fade-up">
+  <section class="mt-32" >
     <h1
       class="text-center mb-20 text-4xl/[0.9] font-medium tracking-tight text-black sm:text-7xl/[0.8] md:text-[5rem]/[0.9]"
     >
