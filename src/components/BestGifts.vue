@@ -13,7 +13,6 @@
           <img
             src="/gift1.jpg"
             alt="Gift Image"
-            loading="lazy"
             class="w-[20rem] h-48 object-cover rounded-lg transition-transform duration-300 ease-in-out hover:scale-105"
           />
         </div>
@@ -23,7 +22,6 @@
           <img
             src="/gift2.jpg"
             alt="Gift Image"
-            loading="lazy"
             class="w-[20rem] h-48 object-cover rounded-lg transition-transform duration-300 ease-in-out hover:scale-105"
           />
         </div>
@@ -36,7 +34,6 @@
           <img
             src="/gift3.jpg"
             alt="Gift Image"
-            loading="lazy"
             class="w-[20rem] h-48 object-cover rounded-lg transition-transform duration-300 ease-in-out hover:scale-105"
           />
         </div>
@@ -46,7 +43,6 @@
           <img
             src="/gift4.jpg"
             alt="Gift Image"
-            loading="lazy"
             class="w-[20rem] h-48 object-cover rounded-lg transition-transform duration-300 ease-in-out hover:scale-105"
           />
         </div>
@@ -59,7 +55,6 @@
           <img
             src="/gift5.jpg"
             alt="Gift Image"
-            loading="lazy"
             class="w-[20rem] h-48 object-cover rounded-lg transition-transform duration-300 ease-in-out hover:scale-105"
           />
         </div>
@@ -69,7 +64,6 @@
           <img
             src="/gift6.jpg"
             alt="Gift Image"
-            loading="lazy"
             class="w-[20rem] h-48 object-cover rounded-lg transition-transform duration-300 ease-in-out hover:scale-105"
           />
         </div>
